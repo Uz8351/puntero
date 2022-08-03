@@ -1,0 +1,11 @@
+Resolviendo dudas sobre punteros
+y direcciones de memoria. Sencillo
+programa que apunta a elementos
+numéricos individuales, con sus
+respectivas direcciones de
+memoria.
+
+Realizado en plataforma LINUX Ubuntu 20.04.4 LTS.
+Bajo el standard ANSI C.-C-11
+
+Compilación:  gcc archivo.c -o archivo
